@@ -108,5 +108,14 @@
   },
   "eslintConfig": {
     "extends": "react-app"
+  },
+  "dependencies": {
+    "axios": "^0.16.2",
+    "moment": "^2.18.1",
+    "moment-timezone": "^0.5.13",
+    "react-date-picker": "^5.3.28",
+    "react-hint": "^2.0.2",
+    "react-moment": "^0.6.5",
+    "react-simple-datepicker": "^0.1.4"
   }
 }
